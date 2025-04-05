@@ -1,0 +1,25 @@
+.text-danger {
+    font-weight: bold;
+}
+
+.text-success {
+    font-weight: bold;
+}
+
+.card {
+    border-radius: 0.5rem;
+    transition: box-shadow 0.3s ease;
+}
+
+.card:hover {
+    box-shadow: 0 4px 20px rgba(0, 0, 0, 0.1);
+}
+
+.card-title {
+    font-weight: 600;
+    margin-bottom: 1rem;
+}
+
+.card-body {
+    padding: 1.5rem;
+}
