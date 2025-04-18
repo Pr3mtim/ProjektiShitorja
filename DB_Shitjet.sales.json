@@ -1,0 +1,990 @@
+[{
+  "_id": {
+    "$oid": "67f0f797bcbf308ff0eabd83"
+  },
+  "brand": {
+    "$oid": "67f0f37b95be5ee893c13aa3"
+  },
+  "quantity": 1,
+  "totalAmount": 3,
+  "amountReceived": 3.16,
+  "saleType": "single",
+  "date": {
+    "$date": "2025-04-05T09:27:51.684Z"
+  },
+  "createdAt": {
+    "$date": "2025-04-05T09:27:51.689Z"
+  },
+  "updatedAt": {
+    "$date": "2025-04-05T09:27:51.689Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67f0f797bcbf308ff0eabd87"
+  },
+  "brand": {
+    "$oid": "67f0f3c895be5ee893c13aaf"
+  },
+  "quantity": 1,
+  "totalAmount": 2.7,
+  "amountReceived": 2.84,
+  "saleType": "single",
+  "date": {
+    "$date": "2025-04-05T09:27:51.708Z"
+  },
+  "createdAt": {
+    "$date": "2025-04-05T09:27:51.710Z"
+  },
+  "updatedAt": {
+    "$date": "2025-04-05T09:27:51.710Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67f0f7c5bcbf308ff0eabda4"
+  },
+  "brand": {
+    "$oid": "67f0f36395be5ee893c13aa0"
+  },
+  "quantity": 1,
+  "totalAmount": 3.2,
+  "amountReceived": 3.78,
+  "saleType": "single",
+  "date": {
+    "$date": "2025-04-05T09:28:37.364Z"
+  },
+  "createdAt": {
+    "$date": "2025-04-05T09:28:37.364Z"
+  },
+  "updatedAt": {
+    "$date": "2025-04-05T09:28:37.364Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67f0f7c5bcbf308ff0eabda8"
+  },
+  "brand": {
+    "$oid": "67f0f37b95be5ee893c13aa3"
+  },
+  "quantity": 1,
+  "totalAmount": 3,
+  "amountReceived": 3.54,
+  "saleType": "single",
+  "date": {
+    "$date": "2025-04-05T09:28:37.376Z"
+  },
+  "createdAt": {
+    "$date": "2025-04-05T09:28:37.378Z"
+  },
+  "updatedAt": {
+    "$date": "2025-04-05T09:28:37.378Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67f0f7c5bcbf308ff0eabdac"
+  },
+  "brand": {
+    "$oid": "67f0f38595be5ee893c13aa6"
+  },
+  "quantity": 1,
+  "totalAmount": 3.2,
+  "amountReceived": 3.78,
+  "saleType": "single",
+  "date": {
+    "$date": "2025-04-05T09:28:37.388Z"
+  },
+  "createdAt": {
+    "$date": "2025-04-05T09:28:37.389Z"
+  },
+  "updatedAt": {
+    "$date": "2025-04-05T09:28:37.389Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67f0f7c5bcbf308ff0eabdb0"
+  },
+  "brand": {
+    "$oid": "67f0f3bc95be5ee893c13aac"
+  },
+  "quantity": 4,
+  "totalAmount": 10.8,
+  "amountReceived": 12.76,
+  "saleType": "multi",
+  "date": {
+    "$date": "2025-04-05T09:28:37.399Z"
+  },
+  "createdAt": {
+    "$date": "2025-04-05T09:28:37.400Z"
+  },
+  "updatedAt": {
+    "$date": "2025-04-05T09:28:37.400Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67f0f7c5bcbf308ff0eabdb4"
+  },
+  "brand": {
+    "$oid": "67f0f3d395be5ee893c13ab2"
+  },
+  "quantity": 1,
+  "totalAmount": 2.7,
+  "amountReceived": 3.19,
+  "saleType": "single",
+  "date": {
+    "$date": "2025-04-05T09:28:37.411Z"
+  },
+  "createdAt": {
+    "$date": "2025-04-05T09:28:37.412Z"
+  },
+  "updatedAt": {
+    "$date": "2025-04-05T09:28:37.412Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67f0f7c5bcbf308ff0eabdb8"
+  },
+  "brand": {
+    "$oid": "67f0f3dc95be5ee893c13ab5"
+  },
+  "quantity": 1,
+  "totalAmount": 2.5,
+  "amountReceived": 2.95,
+  "saleType": "single",
+  "date": {
+    "$date": "2025-04-05T09:28:37.423Z"
+  },
+  "createdAt": {
+    "$date": "2025-04-05T09:28:37.424Z"
+  },
+  "updatedAt": {
+    "$date": "2025-04-05T09:28:37.424Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67f0f7cbbcbf308ff0eabdbd"
+  },
+  "brand": {
+    "$oid": "67f0f36395be5ee893c13aa0"
+  },
+  "quantity": 1,
+  "totalAmount": 3.2,
+  "amountReceived": 3.5,
+  "saleType": "single",
+  "date": {
+    "$date": "2025-04-05T09:28:43.891Z"
+  },
+  "createdAt": {
+    "$date": "2025-04-05T09:28:43.891Z"
+  },
+  "updatedAt": {
+    "$date": "2025-04-05T09:28:43.891Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67f0f7cbbcbf308ff0eabdc1"
+  },
+  "brand": {
+    "$oid": "67f0f37b95be5ee893c13aa3"
+  },
+  "quantity": 1,
+  "totalAmount": 3,
+  "amountReceived": 3.28,
+  "saleType": "single",
+  "date": {
+    "$date": "2025-04-05T09:28:43.899Z"
+  },
+  "createdAt": {
+    "$date": "2025-04-05T09:28:43.899Z"
+  },
+  "updatedAt": {
+    "$date": "2025-04-05T09:28:43.899Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67f0f7cbbcbf308ff0eabdc5"
+  },
+  "brand": {
+    "$oid": "67f0f38e95be5ee893c13aa9"
+  },
+  "quantity": 2,
+  "totalAmount": 6,
+  "amountReceived": 6.57,
+  "saleType": "multi",
+  "date": {
+    "$date": "2025-04-05T09:28:43.913Z"
+  },
+  "createdAt": {
+    "$date": "2025-04-05T09:28:43.913Z"
+  },
+  "updatedAt": {
+    "$date": "2025-04-05T09:28:43.913Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67f0f7cbbcbf308ff0eabdc9"
+  },
+  "brand": {
+    "$oid": "67f0f3c895be5ee893c13aaf"
+  },
+  "quantity": 1,
+  "totalAmount": 2.7,
+  "amountReceived": 2.96,
+  "saleType": "single",
+  "date": {
+    "$date": "2025-04-05T09:28:43.925Z"
+  },
+  "createdAt": {
+    "$date": "2025-04-05T09:28:43.925Z"
+  },
+  "updatedAt": {
+    "$date": "2025-04-05T09:28:43.925Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67f0f7cbbcbf308ff0eabdcd"
+  },
+  "brand": {
+    "$oid": "67f0f3d395be5ee893c13ab2"
+  },
+  "quantity": 1,
+  "totalAmount": 2.7,
+  "amountReceived": 2.96,
+  "saleType": "single",
+  "date": {
+    "$date": "2025-04-05T09:28:43.935Z"
+  },
+  "createdAt": {
+    "$date": "2025-04-05T09:28:43.935Z"
+  },
+  "updatedAt": {
+    "$date": "2025-04-05T09:28:43.935Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67f0f7cbbcbf308ff0eabdd1"
+  },
+  "brand": {
+    "$oid": "67f0f3dc95be5ee893c13ab5"
+  },
+  "quantity": 1,
+  "totalAmount": 2.5,
+  "amountReceived": 2.74,
+  "saleType": "single",
+  "date": {
+    "$date": "2025-04-05T09:28:43.945Z"
+  },
+  "createdAt": {
+    "$date": "2025-04-05T09:28:43.945Z"
+  },
+  "updatedAt": {
+    "$date": "2025-04-05T09:28:43.945Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67f0f835bcbf308ff0eabdfc"
+  },
+  "brand": {
+    "$oid": "67f0f36395be5ee893c13aa0"
+  },
+  "quantity": 1,
+  "totalAmount": 3.2,
+  "amountReceived": 3.23,
+  "saleType": "single",
+  "date": {
+    "$date": "2025-04-05T09:30:29.480Z"
+  },
+  "createdAt": {
+    "$date": "2025-04-05T09:30:29.481Z"
+  },
+  "updatedAt": {
+    "$date": "2025-04-05T09:30:29.481Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67f0f835bcbf308ff0eabe00"
+  },
+  "brand": {
+    "$oid": "67f0f37b95be5ee893c13aa3"
+  },
+  "quantity": 1,
+  "totalAmount": 3,
+  "amountReceived": 3.03,
+  "saleType": "single",
+  "date": {
+    "$date": "2025-04-05T09:30:29.490Z"
+  },
+  "createdAt": {
+    "$date": "2025-04-05T09:30:29.491Z"
+  },
+  "updatedAt": {
+    "$date": "2025-04-05T09:30:29.491Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67f0f835bcbf308ff0eabe04"
+  },
+  "brand": {
+    "$oid": "67f0f38e95be5ee893c13aa9"
+  },
+  "quantity": 1,
+  "totalAmount": 3,
+  "amountReceived": 3.03,
+  "saleType": "single",
+  "date": {
+    "$date": "2025-04-05T09:30:29.500Z"
+  },
+  "createdAt": {
+    "$date": "2025-04-05T09:30:29.501Z"
+  },
+  "updatedAt": {
+    "$date": "2025-04-05T09:30:29.501Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67f0f835bcbf308ff0eabe08"
+  },
+  "brand": {
+    "$oid": "67f0f3c895be5ee893c13aaf"
+  },
+  "quantity": 1,
+  "totalAmount": 2.7,
+  "amountReceived": 2.72,
+  "saleType": "single",
+  "date": {
+    "$date": "2025-04-05T09:30:29.508Z"
+  },
+  "createdAt": {
+    "$date": "2025-04-05T09:30:29.508Z"
+  },
+  "updatedAt": {
+    "$date": "2025-04-05T09:30:29.508Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67f0fc2b940262152a326ffd"
+  },
+  "brand": {
+    "$oid": "67f0f36395be5ee893c13aa0"
+  },
+  "quantity": 1,
+  "totalAmount": 3.2,
+  "amountReceived": 3.5,
+  "saleType": "single",
+  "date": {
+    "$date": "2025-04-05T09:47:23.645Z"
+  },
+  "createdAt": {
+    "$date": "2025-04-05T09:47:23.649Z"
+  },
+  "updatedAt": {
+    "$date": "2025-04-05T09:47:23.649Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67f0fc2b940262152a327001"
+  },
+  "brand": {
+    "$oid": "67f0f38595be5ee893c13aa6"
+  },
+  "quantity": 1,
+  "totalAmount": 3.2,
+  "amountReceived": 3.5,
+  "saleType": "single",
+  "date": {
+    "$date": "2025-04-05T09:47:23.663Z"
+  },
+  "createdAt": {
+    "$date": "2025-04-05T09:47:23.664Z"
+  },
+  "updatedAt": {
+    "$date": "2025-04-05T09:47:23.664Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67f1057a3a28dcaac04a4389"
+  },
+  "brand": {
+    "$oid": "67f0f36395be5ee893c13aa0"
+  },
+  "quantity": 2,
+  "totalAmount": 6.4,
+  "amountReceived": 6.7,
+  "saleType": "multi",
+  "date": {
+    "$date": "2025-04-05T10:27:06.526Z"
+  },
+  "createdAt": {
+    "$date": "2025-04-05T10:27:06.530Z"
+  },
+  "updatedAt": {
+    "$date": "2025-04-05T10:27:06.530Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67f1057a3a28dcaac04a438d"
+  },
+  "brand": {
+    "$oid": "67f0f37b95be5ee893c13aa3"
+  },
+  "quantity": 3,
+  "totalAmount": 9,
+  "amountReceived": 9.42,
+  "saleType": "multi",
+  "date": {
+    "$date": "2025-04-05T10:27:06.548Z"
+  },
+  "createdAt": {
+    "$date": "2025-04-05T10:27:06.548Z"
+  },
+  "updatedAt": {
+    "$date": "2025-04-05T10:27:06.548Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67f1057a3a28dcaac04a4391"
+  },
+  "brand": {
+    "$oid": "67f0f38595be5ee893c13aa6"
+  },
+  "quantity": 1,
+  "totalAmount": 3.2,
+  "amountReceived": 3.35,
+  "saleType": "single",
+  "date": {
+    "$date": "2025-04-05T10:27:06.560Z"
+  },
+  "createdAt": {
+    "$date": "2025-04-05T10:27:06.561Z"
+  },
+  "updatedAt": {
+    "$date": "2025-04-05T10:27:06.561Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67f1057a3a28dcaac04a4395"
+  },
+  "brand": {
+    "$oid": "67f0f38e95be5ee893c13aa9"
+  },
+  "quantity": 3,
+  "totalAmount": 9,
+  "amountReceived": 9.42,
+  "saleType": "multi",
+  "date": {
+    "$date": "2025-04-05T10:27:06.571Z"
+  },
+  "createdAt": {
+    "$date": "2025-04-05T10:27:06.572Z"
+  },
+  "updatedAt": {
+    "$date": "2025-04-05T10:27:06.572Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67f1057a3a28dcaac04a4399"
+  },
+  "brand": {
+    "$oid": "67f0f3bc95be5ee893c13aac"
+  },
+  "quantity": 2,
+  "totalAmount": 5.4,
+  "amountReceived": 5.65,
+  "saleType": "multi",
+  "date": {
+    "$date": "2025-04-05T10:27:06.581Z"
+  },
+  "createdAt": {
+    "$date": "2025-04-05T10:27:06.582Z"
+  },
+  "updatedAt": {
+    "$date": "2025-04-05T10:27:06.582Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67f1057a3a28dcaac04a439d"
+  },
+  "brand": {
+    "$oid": "67f0f3c895be5ee893c13aaf"
+  },
+  "quantity": 1,
+  "totalAmount": 2.7,
+  "amountReceived": 2.83,
+  "saleType": "single",
+  "date": {
+    "$date": "2025-04-05T10:27:06.591Z"
+  },
+  "createdAt": {
+    "$date": "2025-04-05T10:27:06.592Z"
+  },
+  "updatedAt": {
+    "$date": "2025-04-05T10:27:06.592Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67f1057a3a28dcaac04a43a1"
+  },
+  "brand": {
+    "$oid": "67f0f3dc95be5ee893c13ab5"
+  },
+  "quantity": 1,
+  "totalAmount": 2.5,
+  "amountReceived": 2.62,
+  "saleType": "single",
+  "date": {
+    "$date": "2025-04-05T10:27:06.604Z"
+  },
+  "createdAt": {
+    "$date": "2025-04-05T10:27:06.605Z"
+  },
+  "updatedAt": {
+    "$date": "2025-04-05T10:27:06.605Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67f13ebf2482814f88f05acd"
+  },
+  "brand": {
+    "$oid": "67f0f38595be5ee893c13aa6"
+  },
+  "quantity": 1,
+  "totalAmount": 3.2,
+  "amountReceived": 3.34,
+  "saleType": "single",
+  "date": {
+    "$date": "2025-04-05T14:31:27.696Z"
+  },
+  "createdAt": {
+    "$date": "2025-04-05T14:31:27.696Z"
+  },
+  "updatedAt": {
+    "$date": "2025-04-05T14:31:27.696Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67f13ebf2482814f88f05ad1"
+  },
+  "brand": {
+    "$oid": "67f0f3bc95be5ee893c13aac"
+  },
+  "quantity": 1,
+  "totalAmount": 2.7,
+  "amountReceived": 2.82,
+  "saleType": "single",
+  "date": {
+    "$date": "2025-04-05T14:31:27.706Z"
+  },
+  "createdAt": {
+    "$date": "2025-04-05T14:31:27.706Z"
+  },
+  "updatedAt": {
+    "$date": "2025-04-05T14:31:27.706Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67f13ebf2482814f88f05ad5"
+  },
+  "brand": {
+    "$oid": "67f1064a3a28dcaac04a43b3"
+  },
+  "quantity": 1,
+  "totalAmount": 2.5,
+  "amountReceived": 2.61,
+  "saleType": "single",
+  "date": {
+    "$date": "2025-04-05T14:31:27.719Z"
+  },
+  "createdAt": {
+    "$date": "2025-04-05T14:31:27.719Z"
+  },
+  "updatedAt": {
+    "$date": "2025-04-05T14:31:27.719Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67f13ebf2482814f88f05ad9"
+  },
+  "brand": {
+    "$oid": "67f13e202482814f88f05ab6"
+  },
+  "quantity": 1,
+  "totalAmount": 2.5,
+  "amountReceived": 2.61,
+  "saleType": "single",
+  "date": {
+    "$date": "2025-04-05T14:31:27.727Z"
+  },
+  "createdAt": {
+    "$date": "2025-04-05T14:31:27.727Z"
+  },
+  "updatedAt": {
+    "$date": "2025-04-05T14:31:27.727Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67f13ebf2482814f88f05add"
+  },
+  "brand": {
+    "$oid": "67f13e302482814f88f05ab9"
+  },
+  "quantity": 1,
+  "totalAmount": 2.5,
+  "amountReceived": 2.61,
+  "saleType": "single",
+  "date": {
+    "$date": "2025-04-05T14:31:27.736Z"
+  },
+  "createdAt": {
+    "$date": "2025-04-05T14:31:27.736Z"
+  },
+  "updatedAt": {
+    "$date": "2025-04-05T14:31:27.736Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67f13f092482814f88f05af5"
+  },
+  "brand": {
+    "$oid": "67f13e452482814f88f05abf"
+  },
+  "quantity": 1,
+  "totalAmount": 2.4,
+  "amountReceived": 2.5,
+  "saleType": "single",
+  "date": {
+    "$date": "2025-04-05T14:32:41.178Z"
+  },
+  "createdAt": {
+    "$date": "2025-04-05T14:32:41.179Z"
+  },
+  "updatedAt": {
+    "$date": "2025-04-05T14:32:41.179Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67f13f092482814f88f05af9"
+  },
+  "brand": {
+    "$oid": "67f13e562482814f88f05ac2"
+  },
+  "quantity": 1,
+  "totalAmount": 2.4,
+  "amountReceived": 2.5,
+  "saleType": "single",
+  "date": {
+    "$date": "2025-04-05T14:32:41.185Z"
+  },
+  "createdAt": {
+    "$date": "2025-04-05T14:32:41.185Z"
+  },
+  "updatedAt": {
+    "$date": "2025-04-05T14:32:41.185Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67f1471f74bda988228319b0"
+  },
+  "brand": {
+    "$oid": "67f1064a3a28dcaac04a43b3"
+  },
+  "quantity": 1,
+  "totalAmount": 2.5,
+  "amountReceived": 2.53,
+  "saleType": "single",
+  "date": {
+    "$date": "2025-04-05T15:07:11.497Z"
+  },
+  "createdAt": {
+    "$date": "2025-04-05T15:07:11.501Z"
+  },
+  "updatedAt": {
+    "$date": "2025-04-05T15:07:11.501Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67f1471f74bda988228319b4"
+  },
+  "brand": {
+    "$oid": "67f106663a28dcaac04a43c8"
+  },
+  "quantity": 1,
+  "totalAmount": 2.5,
+  "amountReceived": 2.53,
+  "saleType": "single",
+  "date": {
+    "$date": "2025-04-05T15:07:11.521Z"
+  },
+  "createdAt": {
+    "$date": "2025-04-05T15:07:11.522Z"
+  },
+  "updatedAt": {
+    "$date": "2025-04-05T15:07:11.522Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67f1471f74bda988228319b8"
+  },
+  "brand": {
+    "$oid": "67f13e202482814f88f05ab6"
+  },
+  "quantity": 1,
+  "totalAmount": 2.5,
+  "amountReceived": 2.53,
+  "saleType": "single",
+  "date": {
+    "$date": "2025-04-05T15:07:11.537Z"
+  },
+  "createdAt": {
+    "$date": "2025-04-05T15:07:11.538Z"
+  },
+  "updatedAt": {
+    "$date": "2025-04-05T15:07:11.538Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67f1471f74bda988228319bc"
+  },
+  "brand": {
+    "$oid": "67f13e562482814f88f05ac2"
+  },
+  "quantity": 1,
+  "totalAmount": 2.4,
+  "amountReceived": 2.42,
+  "saleType": "single",
+  "date": {
+    "$date": "2025-04-05T15:07:11.547Z"
+  },
+  "createdAt": {
+    "$date": "2025-04-05T15:07:11.548Z"
+  },
+  "updatedAt": {
+    "$date": "2025-04-05T15:07:11.548Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67f68fa280eca47ee8dd6ab2"
+  },
+  "brand": {
+    "$oid": "67f13e202482814f88f05ab6"
+  },
+  "quantity": 1,
+  "totalAmount": 2.5,
+  "amountReceived": 2.74,
+  "saleType": "single",
+  "date": {
+    "$date": "2025-04-09T15:17:54.071Z"
+  },
+  "createdAt": {
+    "$date": "2025-04-09T15:17:54.075Z"
+  },
+  "updatedAt": {
+    "$date": "2025-04-09T15:17:54.075Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67f68fa280eca47ee8dd6ab6"
+  },
+  "brand": {
+    "$oid": "67f13e3b2482814f88f05abc"
+  },
+  "quantity": 1,
+  "totalAmount": 2.5,
+  "amountReceived": 2.74,
+  "saleType": "single",
+  "date": {
+    "$date": "2025-04-09T15:17:54.128Z"
+  },
+  "createdAt": {
+    "$date": "2025-04-09T15:17:54.129Z"
+  },
+  "updatedAt": {
+    "$date": "2025-04-09T15:17:54.129Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67f68fa280eca47ee8dd6aba"
+  },
+  "brand": {
+    "$oid": "67f13ef92482814f88f05aef"
+  },
+  "quantity": 1,
+  "totalAmount": 3.2,
+  "amountReceived": 3.51,
+  "saleType": "single",
+  "date": {
+    "$date": "2025-04-09T15:17:54.136Z"
+  },
+  "createdAt": {
+    "$date": "2025-04-09T15:17:54.137Z"
+  },
+  "updatedAt": {
+    "$date": "2025-04-09T15:17:54.137Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6802691645905d67c97be166"
+  },
+  "brand": {
+    "$oid": "67f0f36395be5ee893c13aa0"
+  },
+  "quantity": 1,
+  "totalAmount": 3.2,
+  "amountReceived": 5.42,
+  "saleType": "single",
+  "date": {
+    "$date": "2025-04-18T15:00:38.004Z"
+  },
+  "createdAt": {
+    "$date": "2025-04-18T15:00:38.008Z"
+  },
+  "updatedAt": {
+    "$date": "2025-04-18T15:00:38.008Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6802691645905d67c97be16a"
+  },
+  "brand": {
+    "$oid": "67f0f3c895be5ee893c13aaf"
+  },
+  "quantity": 1,
+  "totalAmount": 2.7,
+  "amountReceived": 4.58,
+  "saleType": "single",
+  "date": {
+    "$date": "2025-04-18T15:00:38.062Z"
+  },
+  "createdAt": {
+    "$date": "2025-04-18T15:00:38.063Z"
+  },
+  "updatedAt": {
+    "$date": "2025-04-18T15:00:38.063Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6802ae3345905d67c97be191"
+  },
+  "brand": {
+    "$oid": "67f0f3bc95be5ee893c13aac"
+  },
+  "quantity": 1,
+  "totalAmount": 2.7,
+  "amountReceived": 3.63,
+  "saleType": "single",
+  "date": {
+    "$date": "2025-04-18T19:55:31.095Z"
+  },
+  "createdAt": {
+    "$date": "2025-04-18T19:55:31.096Z"
+  },
+  "updatedAt": {
+    "$date": "2025-04-18T19:55:31.096Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6802ae3345905d67c97be195"
+  },
+  "brand": {
+    "$oid": "67f1064a3a28dcaac04a43b3"
+  },
+  "quantity": 1,
+  "totalAmount": 2.5,
+  "amountReceived": 3.37,
+  "saleType": "single",
+  "date": {
+    "$date": "2025-04-18T19:55:31.105Z"
+  },
+  "createdAt": {
+    "$date": "2025-04-18T19:55:31.105Z"
+  },
+  "updatedAt": {
+    "$date": "2025-04-18T19:55:31.105Z"
+  },
+  "__v": 0
+}]

@@ -1,0 +1,192 @@
+[{
+  "_id": {
+    "$oid": "67f0f36395be5ee893c13aa0"
+  },
+  "name": "Marlboro Gold",
+  "price": 3.2,
+  "stock": 99,
+  "lastRestocked": {
+    "$date": "2025-04-12T08:16:39.065Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67f0f37b95be5ee893c13aa3"
+  },
+  "name": "Marlboro Gold Soft",
+  "price": 3,
+  "stock": 89,
+  "lastRestocked": {
+    "$date": "2025-04-05T09:12:27.597Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67f0f38595be5ee893c13aa6"
+  },
+  "name": "Marlboro Red",
+  "price": 3.2,
+  "stock": 95,
+  "lastRestocked": {
+    "$date": "2025-04-05T09:12:30.711Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67f0f38e95be5ee893c13aa9"
+  },
+  "name": "Marlboro Red Soft",
+  "price": 3,
+  "stock": 93,
+  "lastRestocked": {
+    "$date": "2025-04-05T09:12:33.517Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67f0f3bc95be5ee893c13aac"
+  },
+  "name": "Marlboro Touch",
+  "price": 2.7,
+  "stock": 92,
+  "lastRestocked": {
+    "$date": "2025-04-05T09:12:36.405Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67f0f3c895be5ee893c13aaf"
+  },
+  "name": "Marlboro Fine Touch",
+  "price": 2.7,
+  "stock": 95,
+  "lastRestocked": {
+    "$date": "2025-04-05T09:12:39.121Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67f0f3d395be5ee893c13ab2"
+  },
+  "name": "Marlboro Flavor Touch",
+  "price": 2.7,
+  "stock": 96,
+  "lastRestocked": {
+    "$date": "2025-04-05T09:12:42.432Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67f0f3dc95be5ee893c13ab5"
+  },
+  "name": "Marlboro Slims",
+  "price": 2.5,
+  "stock": 97,
+  "lastRestocked": {
+    "$date": "2025-04-05T09:12:46.022Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67f1064a3a28dcaac04a43b3"
+  },
+  "name": "Winston Blue",
+  "price": 2.5,
+  "stock": 92,
+  "lastRestocked": {
+    "$date": "2025-04-12T08:15:28.305Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67f106663a28dcaac04a43c8"
+  },
+  "name": "Winston Silver",
+  "price": 2.5,
+  "stock": 93,
+  "lastRestocked": {
+    "$date": "2025-04-05T10:31:21.286Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67f13e202482814f88f05ab6"
+  },
+  "name": "Winston Red",
+  "price": 2.5,
+  "stock": 95,
+  "lastRestocked": {
+    "$date": "2025-04-05T14:28:48.855Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67f13e302482814f88f05ab9"
+  },
+  "name": "Winston Slims Blue",
+  "price": 2.5,
+  "stock": 98,
+  "lastRestocked": {
+    "$date": "2025-04-05T14:29:04.414Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67f13e3b2482814f88f05abc"
+  },
+  "name": "Winston Slims Silver",
+  "price": 2.5,
+  "stock": 99,
+  "lastRestocked": {
+    "$date": "2025-04-05T14:29:15.475Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67f13e452482814f88f05abf"
+  },
+  "name": "Winston XS Silver",
+  "price": 2.4,
+  "stock": 98,
+  "lastRestocked": {
+    "$date": "2025-04-05T14:29:25.857Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67f13e562482814f88f05ac2"
+  },
+  "name": "Winston XS Blue",
+  "price": 2.4,
+  "stock": 98,
+  "lastRestocked": {
+    "$date": "2025-04-05T14:29:42.002Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67f13ef92482814f88f05aef"
+  },
+  "name": "Kent Silver",
+  "price": 3.2,
+  "stock": 99,
+  "lastRestocked": {
+    "$date": "2025-04-05T14:32:25.370Z"
+  },
+  "__v": 0
+}]
